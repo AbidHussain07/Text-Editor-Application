@@ -24,10 +24,17 @@ This is a simple text editor application built using Python and Tkinter. The app
 **Installation**
 --------------
 
-1. Clone the repository: `git clone https://github.com/your-username/text-editor.git`
+1. Clone the repository: `https://github.com/AbidHussain07/Text-Editor-Application.git`
 2. Navigate to the project directory: `cd New folder`
 3. Run the application: `python App.py`
 
+**Install as .exe file**
+--------------
+
+1. Open the terminal and install : `pip install cx_freeze`
+2. After completing Installation Open CMD (Command Prompt) in that Directory where the file is Located.
+3. Then Type : `python setup.py bdist_msi` ---for Window users
+4. For Mac ---- `python setup.py bdist_dmg`
 **Usage**
 -----
 
