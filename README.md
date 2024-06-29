@@ -25,13 +25,13 @@ This is a simple text editor application built using Python and Tkinter. The app
 --------------
 
 1. Clone the repository: `git clone https://github.com/your-username/text-editor.git`
-2. Navigate to the project directory: `cd text-editor`
-3. Run the application: `python text_editor.py`
+2. Navigate to the project directory: `cd New folder`
+3. Run the application: `python App.py`
 
 **Usage**
 -----
 
-1. Launch the application by running `python text_editor.py`
+1. Launch the application by running `python App.py`
 2. Create a new file by clicking on "File" > "New" or press `Ctrl+N`
 3. Open an existing file by clicking on "File" > "Open" or press `Ctrl+O`
 4. Edit the text in the text area
@@ -44,6 +44,7 @@ This is a simple text editor application built using Python and Tkinter. The app
 * `Ctrl+N`: Create a new file
 * `Ctrl+O`: Open an existing file
 * `Ctrl+S`: Save the current file
+* `Ctrl+Alt+S`: Save as the current file as Copy file
 * `Ctrl+Q`: Exit the application
 * `Ctrl+X`: Cut text
 * `Ctrl+C`: Copy text
@@ -59,12 +60,8 @@ This is a simple text editor application built using Python and Tkinter. The app
 
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
 
-**License**
----------
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 **Author**
 ---------
 
-Your Name
+Siddhpura Abid Hussain
